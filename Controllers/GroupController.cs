@@ -16,7 +16,7 @@ namespace GontseShabanguStudyGroup.Controllers
             student.Add(new Models.Study { StudentNumber = "u24686752", FirstName = "Thato", LastName = "Mokgothu", EmailAddress = "u24686752@tuks.co.za" });
             student.Add(new Models.Study { StudentNumber = "u24951405", FirstName = "Lathitha", LastName = "Mqoboli", EmailAddress = "u24951405@tuks.co.za" });
             student.Add(new Models.Study { StudentNumber = "u24742661", FirstName = "Dumo", LastName = "Ngobese", EmailAddress = "u2262308@tuks.co.za" });
-            student.Add(new Models.Study{ StudentNumber = "u24752038", FirstName = "Langaleftu", LastName = "Manzini", EmailAddress = "u24752038@tuks.co.za" });
+            student.Add(new Models.Study{ StudentNumber = "u24752038", FirstName = "Langaleftu", LastName = "Petlane", EmailAddress = "u24752038@tuks.co.za" });
 
             return View(student);
         }
